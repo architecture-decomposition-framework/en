@@ -1,6 +1,6 @@
 ---
 title: Documentation-as-code
-parent: Dokumentation
+parent: Documentation
 nav_order: 4
 layout: default
 ---

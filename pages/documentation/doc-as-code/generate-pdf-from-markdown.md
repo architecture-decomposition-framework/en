@@ -1,5 +1,5 @@
 ---
-title: Markdown in PDF umwandeln
+title: Convert Markdown to PDF
 parent: Documentation-as-code
 nav_order: 2
 layout: default

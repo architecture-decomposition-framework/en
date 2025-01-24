@@ -1,5 +1,5 @@
 ---
-title: CI-Pipelines
+title: CI Pipelines
 parent: Documentation-as-code
 nav_order: 3
 layout: default
