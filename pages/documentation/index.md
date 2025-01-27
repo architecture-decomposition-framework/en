@@ -20,8 +20,10 @@ Software architecture documentation makes design decisions about a software syst
 
 The documentation template contains many usage tips in the first section. It can be filled out retrospectively or used to support architecture work throughout the project. The template is maintained and versioned in a separate GitHub repository:
 
-[To the template (German)](https://github.com/architecture-decomposition-framework/adf-documentation-template/blob/main/template/architecture-documentation-de.md){: .btn .btn-primary }
 [To the template (English)](https://github.com/architecture-decomposition-framework/adf-documentation-template/blob/main/template/architecture-documentation-en.md){: .btn .btn-primary }
+[To the template (German)](https://github.com/architecture-decomposition-framework/adf-documentation-template/blob/main/template/architecture-documentation-de.md){: .btn .btn-primary }
+
+In the [template repository](https://github.com/architecture-decomposition-framework/adf-documentation-template), there is also a DOCX version and a version where the template is distributed across multiple files.
 
 To easily edit the documentation and make it available to as many people as possible in the current version, the Documentation-as-Code approach is recommended, which is described in detail at the following link.
 
