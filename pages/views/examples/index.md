@@ -12,7 +12,7 @@ This page has been machine-translated and has not yet been reviewed. Parts of it
 # Examples of ADF Views
 {: .no_toc }
 
-These views are taken from the [example documentations](../documentation/examples.html). More examples can be found there.
+These views are taken from the [example documentations](../../documentation/examples.html). More examples can be found there.
 
 The labeling follows the scheme "Name of the view (Type of the view)".
 
