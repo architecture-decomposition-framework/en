@@ -32,3 +32,9 @@ Dokchess is a chess engine and serves as an example for an architecture document
 The project [Marktplatz Deutschland.Digital](https://www.deutschlanddigital.org/) (a name roughly equivalent to *Germany.Digital Marketplace*) focuses on public services in rural areas through digitalization and has developed a platform where various providers can offer digital solutions for municipalities. As part of expanding the architectural documentation of the project, the developers selected a small part of Marktplatz Deutschland.Digital to demonstrate the application of the ADF documentation template, as well as Documentation-as-code and Diagrams-as-code. The marketplace service is a Spring Boot-based REST backend with database integration, allowing the creation, publication, and retrieval of marketplace entries. The documentation is written in German.
 
 [To the documentation](https://gitlab.opencode.de/smarte.land.regionen/plattform/service/marketplace-service/-/blob/main/docs/generated/inhalt.md){: .btn .btn-primary }
+
+## Example 4: Continuous Feedback For Exercises (CoFFE)
+
+The CoFFE project aims to develop an automated feedback system with reporting to support students and instructors in the processing and evaluation of exercises in computer science courses. As part of the project, documentation was created using the ADF documentation template (in German).
+
+[To the documentation](https://github.com/neshanjo/coffe-docs/blob/main/README.md){: .btn .btn-primary }
